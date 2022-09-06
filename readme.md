@@ -49,4 +49,5 @@ I used Github as a hosting platform for this project and used the following step
 ### Repository Link
 
 ## Credits
-
+[Images](https://icons8.com/icon/set/animals/cotton)
+- Pastel icons/images are from Icons8
