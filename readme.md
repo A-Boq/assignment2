@@ -7,10 +7,10 @@ This is a fun Javascript Pairs Game. This is project 2 from the course The Learn
 - Used HTML5 to create the basic structure and content the page.
 
 [CSS3](https://www.w3schools.com/css/default.asp) 
-- Used CSS3 to add custom styling to elements and content of the page.
+- Used CSS3 to add custom styling to elements and content of the page, and media queries for the responsive feature.
 
-[Bootstrap](http://getbootstrap.com) 
-- Used for its responsive grid system and navbar toggle system with Javascript, including pre-built styling.
+[Javascript](https://www.w3schools.com/js/) 
+- Used Javascript to add dynamic features to the game.
 
 [VSCode](http://code.visualstudio.com)
 - Used as my main coding editor.
@@ -31,6 +31,9 @@ I used Google Chrome's Development tools to do regular checks and tests for ever
 [W3C CSS Validator Tool](https://jigsaw.w3.org/css-validator/#validate_by_input)
 - I used the W3C CSS Validator tool to validate my CSS code.
 
+[Javascript Validator Tool](https://esprima.org/demo/validate.html)
+- I used the Esprima Javascript Validator to check my Javascript code.
+
 ## Deployment
 I used Github as a hosting platform for this project and used the following steps to push code and deploy my website.
 
@@ -45,9 +48,16 @@ I used Github as a hosting platform for this project and used the following step
 9. Entered my Github username and password to push files from Git to Github.
 
 ### Running Code Locally
+To run my code locally, users can download a local copy of my code to their desktop by completing the following steps:
 
-### Repository Link
+1. Go to [my GitHub repository](https://github.com/A-Boq/assignment2.git).
+2. Click on 'Clone or download'.
+3. Click on 'Download ZIP'.
+4. Once dowloaded, extract the zip file's contents and run my website locally.
 
 ## Credits
 [Images](https://icons8.com/icon/set/animals/cotton)
 - Pastel icons/images are from Icons8
+
+[Font](https://icons8.com/icon/set/animals/cotton)
+- Roboto font is from Google Fonts.
